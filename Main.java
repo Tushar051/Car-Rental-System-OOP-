@@ -137,7 +137,7 @@ class CarRentalSystem {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("===== Car Rental System =====");
+            System.out.println("===== Car Rental System ====="); //
             System.out.println("1. Rent a Car");
             System.out.println("2. Return a Car");
             System.out.println("3. Exit");
