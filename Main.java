@@ -14,7 +14,6 @@ import java.util.Scanner;
 
 
 
-
 class Car {
     private String carId;
     private String brand;
